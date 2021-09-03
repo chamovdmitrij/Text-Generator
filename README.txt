@@ -10,6 +10,7 @@ Preprocessing:
 	 tail: last token;
 	 
 Conditions:
+ - To start processing corpus, the user must enter a line that will contain the name of the file containing the course. (corpus.txt)	
  - build 10 pseudo-sentences, each on a new line;
  - each sentence consists of at least 5 tokens;
  - the sentence ends with one of the following characters ".?!";
